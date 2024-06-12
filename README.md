@@ -1,4 +1,4 @@
-# Employee_Management_System_Anusha
+# Employee_Management_System
 ## Project Overview
 The Employee Management System Database is designed to efficiently manage and organize employee information, departmental data, project assignments, performance reviews, and salary records. It provides a comprehensive structure for tracking employee roles, project involvement, departmental oversight, and historical salary changes. The system facilitates streamlined operations and reporting through well-defined relationships between employees, departments, projects, and performance metrics.
 ## Database Schema
