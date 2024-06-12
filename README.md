@@ -4,12 +4,12 @@ The Employee Management System Database is designed to efficiently manage and or
 ## Database Schema
 ### Tables and Their Contents
 #### Employees
- employee_id: A unique identifier for each employee (Primary Key).
- name: The name of the employee.
- department_id: A foreign key linking to the department the employee belongs to.
- job_title: The job title of the employee.
- hire_date: The date the employee was hired.
- salary: The current salary of the employee.
+employee_id: A unique identifier for each employee (Primary Key).
+name: The name of the employee.
+department_id: A foreign key linking to the department the employee belongs to.
+job_title: The job title of the employee.
+hire_date: The date the employee was hired.
+salary: The current salary of the employee.
 #### departments
 department_id: A unique identifier for each department (Primary Key).
 department_name: The name of the department.
