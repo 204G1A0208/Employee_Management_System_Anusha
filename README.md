@@ -51,7 +51,6 @@ employees - project_assignments: An employee can be assigned to multiple project
 departments - project: A department can manage multiple projects.
 performance_review - employees: Employees can receive multiple performance reviews.
 salaries - employees: Employees can have multiple salary records over time.
-These tables collectively provide a robust structure for managing various aspects of employee data, departmental organization, project management, performance evaluations, and salary records within the Employee Management System.
 
 
 
