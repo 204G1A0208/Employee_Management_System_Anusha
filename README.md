@@ -18,12 +18,12 @@ location: The location of the department.
 phone_number: The contact phone number for the department.
 budget: The budget allocated to the department.
 #### project
-project_id: A unique identifier for each project (Primary Key).
-project_name: The name of the project.
-start_date: The date the project started.
-end_date: The date the project ended or is expected to end.
-budget: The budget allocated for the project.
-department_id: A foreign key linking the project to the department responsible for it.
+* project_id: A unique identifier for each project (Primary Key).
+* project_name: The name of the project.
+* start_date: The date the project started.
+* end_date: The date the project ended or is expected to end.
+* budget: The budget allocated for the project.
+* department_id: A foreign key linking the project to the department responsible for it.
 #### project_assignments
 assignment_id: A unique identifier for each assignment (Primary Key).
 project_id: A foreign key linking to the project table.
